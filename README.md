@@ -4,4 +4,4 @@
 
 注：代码使用AI工具所生成，可能存在部分Bug，不影响基础功能使用
 
-点此访问Demo：[jevygao.github.io/PhotoStacker/](
+点此访问Demo：[jevygao.github.io/PhotoStacker/](https://jevygao.github.io/PhotoStacker/)
